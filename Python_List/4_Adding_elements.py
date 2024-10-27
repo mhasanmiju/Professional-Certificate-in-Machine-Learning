@@ -6,6 +6,8 @@ my_list = [1,2,3]
 #adding an element
 my_list.append(4)
 my_list.insert(1,'Inserted')
+print(f"Updated list: {my_list}")
+my_list.insert(2, 2.5)
 
 #printing updated list
 print(f"Updated list: {my_list}")
