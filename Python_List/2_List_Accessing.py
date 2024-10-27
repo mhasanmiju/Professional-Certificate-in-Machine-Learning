@@ -3,7 +3,7 @@
 
 #Example list
 
-my_list = [10,20,30,40,50]
+my_list = [100,210,301,'Hi',50,'Miju']
 
 #Accessing elements using positive and negative indices.
 second_element = my_list[1]
