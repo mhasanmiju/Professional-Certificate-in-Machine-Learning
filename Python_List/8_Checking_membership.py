@@ -1,8 +1,8 @@
 # we can use the 'in' keyword to check if an element exists in a list.
 
-my_list = ['Apple','Banana','Cherry']
+my_list = ['Apple','Google','One Plus', 'Samsung']
 
-if 'Banana' in my_list:
-    print(f"Banana is in the List")
+if 'Realme' in my_list:
+    print(f"Realme is in the List")
 else:
-    print(f"Banana is not in the List")
+    print(f"Realme is not in the List")

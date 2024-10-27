@@ -1,7 +1,7 @@
 # The sort() method sorts a list in ascending order.
 # We can also sort in descending order by setting the reverse parameter to True.
 
-number_list = [5, 2, 9, 1, 5, 6]
+number_list = [545, 442, 4, 1, 55, 556,54,56,67,3,4]
 
 #sorting in Ascending order
 
