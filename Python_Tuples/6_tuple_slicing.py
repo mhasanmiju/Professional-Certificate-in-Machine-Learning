@@ -2,10 +2,10 @@
 my_tuple = (12,324,4566,676,86,'miju',[2,4],(12,2))
 
 #Slicing tuple from index 0 to 4
-sliced_tuple = my_tuple[:4]
+sliced_tuple = my_tuple[:5]
 print(f'Sliced tuple from index 0 to 4: {sliced_tuple}')
 
-#Slicing tuple from index 2 to 4
+#Slicing tuple from index 2 to 3
 sliced_tuple2 = my_tuple[2:4]
 print(f'Sliced tuple from index 2 to 4: {sliced_tuple2}')
 
