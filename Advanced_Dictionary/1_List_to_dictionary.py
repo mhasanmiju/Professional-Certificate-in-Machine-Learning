@@ -14,7 +14,7 @@ for product_name, product_cat, product_item in product_information:
 print("-------------------------------")
 print("After Dictionary Creating")
 print(f"Created Dictionary: {product_dict}")
-print(product_dict["Desktop"])
+
 
 """product_dict["Electronics"]["Desktop"] = 500
 will make
