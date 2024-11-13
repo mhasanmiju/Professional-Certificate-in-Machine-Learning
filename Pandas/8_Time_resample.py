@@ -7,6 +7,5 @@ data = {
 
 df = pd.DataFrame(data, index= data_range)
 weakly_sales = df.resample('W').sum()
-
 print(f'data frame: \n{df}')
 print(f'Weakly Sales: \n{weakly_sales}')
