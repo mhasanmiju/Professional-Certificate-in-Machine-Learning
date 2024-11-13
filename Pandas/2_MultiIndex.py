@@ -7,7 +7,7 @@ df = pd.DataFrame(data, index= index, columns=["Sales"])
 print(f"Data Frame: \n{df}")
 
 # Accessing data in a MultiIndex DataFrame
-sales_2025 = df.xs(2024, level='Year')
+sales_2024 = df.xs(2024, level='Year')
 group = df.groupby("Year").agg(Total_Sales = ("Sales","sum") , Average_sale = ("Sales","mean"))
-print(f"Sales in 2024: {sales_2025}")
+print(f"Sales in 2024: {sales_2024}")
 print(f"Average Sales: \n{group}")
