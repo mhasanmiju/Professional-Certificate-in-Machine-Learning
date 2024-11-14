@@ -1,5 +1,4 @@
-# Pandas/14_Pandas_MergingOnMultipleColumns.py
-# Example 14: Pandas - Merging on Multiple Columns
+# Pandas/14_MergingOnMultipleColumns.py
 import pandas as pd
 
 # Creating two DataFrames

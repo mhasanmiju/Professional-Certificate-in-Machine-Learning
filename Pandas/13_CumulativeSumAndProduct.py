@@ -1,5 +1,5 @@
-# Pandas/13_Pandas_CumulativeSumAndProduct.py
-# Example 13: Pandas - Cumulative Sum and Product
+# Pandas/13_CumulativeSumAndProduct.py
+
 import pandas as pd
 
 # Creating a DataFrame
