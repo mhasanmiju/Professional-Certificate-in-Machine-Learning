@@ -1,5 +1,5 @@
 
-# Example 24: Pandas - Assign Method for Adding Columns
+# Pandas/24_AssignMethodAddingColumns.py
 import pandas as pd
 
 # Creating a DataFrame

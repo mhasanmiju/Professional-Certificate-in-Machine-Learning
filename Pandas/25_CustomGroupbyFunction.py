@@ -1,5 +1,5 @@
 
-# Example 25: Pandas - Using Custom Functions with Groupby
+# Pandas/25_CustomGroupbyFunction.py
 import pandas as pd
 
 # Creating a DataFrame

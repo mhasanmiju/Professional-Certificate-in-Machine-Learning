@@ -1,5 +1,5 @@
 
-# Example 23: Pandas - Query Method for Conditional Filtering
+# Pandas/23_QueryMethod.py
 import pandas as pd
 
 # Creating a DataFrame
