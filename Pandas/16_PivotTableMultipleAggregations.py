@@ -1,5 +1,5 @@
 
-# Example 16: Pandas - Creating a Pivot Table with Multiple Aggregations
+# Pandas/16_PivotTableMultipleAggregations.py
 import pandas as pd
 
 # Creating a DataFrame
