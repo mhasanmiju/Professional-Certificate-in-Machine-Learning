@@ -1,5 +1,5 @@
 
-# Example 46: Pandas - Working with Time Zones
+# Pandas/46_WorkingWithTimeZones.py
 import pandas as pd
 
 # Creating a time series with a timezone

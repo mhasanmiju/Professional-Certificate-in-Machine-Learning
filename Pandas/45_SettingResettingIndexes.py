@@ -1,5 +1,5 @@
 
-# Example 45: Pandas - Setting and Resetting Indexes
+# Pandas/45_SettingResettingIndexes.py
 import pandas as pd
 
 # Creating a DataFrame
